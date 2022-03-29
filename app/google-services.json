@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538395058823",
+    "project_id": "jetsportauthentication-88623",
+    "storage_bucket": "jetsportauthentication-88623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538395058823:android:66561315e3415435868e22",
+        "android_client_info": {
+          "package_name": "com.example.jetsportauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538395058823-c7mj5qgvki1s0hpvq3ndevmfful2g1cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMxl9-DiBuY5bMdyjGwuDeSkzk254M8Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538395058823-c7mj5qgvki1s0hpvq3ndevmfful2g1cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
